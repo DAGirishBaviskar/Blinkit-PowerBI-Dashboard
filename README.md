@@ -7,7 +7,29 @@ This Power BI dashboard analyzes Blinkit's grocery sales performance across diff
 The dashboard provides insights into sales trends, customer ratings, product performance, and outlet efficiency.
 
 ---
+## 📊 Dataset Information
 
+**Dataset Name:** BlinkIT Grocery Data
+
+**File Format:** Excel (.xlsx)
+
+**Dataset Features:**
+- Item Fat Content
+- Item Type
+- Outlet Establishment Year
+- Outlet Size
+- Outlet Location Type
+- Outlet Type
+- Item Visibility
+- Item Weight
+- Sales
+- Rating
+
+**Total Records:** 8,523
+
+**Dataset File:**
+- `dataset/BlinkIT Grocery Data.xlsx`
+---
 ## Dashboard Preview
 
 ### Main Dashboard
